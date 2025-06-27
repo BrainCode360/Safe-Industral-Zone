@@ -92,4 +92,34 @@ Every red-zone violation or safety warning is logged remotely for review by safe
 ### 🎬 Demo Preview
 <p align="center"> <img src="https://raw.githubusercontent.com/BrainCode360/Safe-Industral-Zone/main/docs/assets/Zone_Violation.gif" alt="Forklift Safety AI Demo" width="80%"> </p>
 
+---
+## 📍 Field Tested Environments
+- ✅ Heavy machinery industrial warehouses
+- ✅ Logistics loading docks
+- ✅ Outdoor forklift zones
+- ✅ Areas with human–machine interaction risk
+---
+##  📅 Roadmap
+ - Dynamic red zone based on forklift speed
+ - GPS + zone-based alert filtering
+ - LoRa/5G connectivity
+ - IR camera integration for night-time ops
+ - Remote OTA update capability
+---
+##  📜 License
+This project is licensed under the MIT License.
+---
+## 📞 Contact & Support
+
+| Item          | Details                                               |
+| ------------- | ----------------------------------------------------- |
+| 👨‍💻 Company | **BrainCode360**                                      |
+| 📧 Email      | [info@braincode360.com](mailto:info@braincode360.com) |
+| 🌍 Website    | [https://braincode360.com](https://braincode360.com)  |
+| 🏢 Location   | Islamabad / Lahore, Pakistan                                     |
+
+
+For enterprise demos, safety consultation, or product deployment, reach out to schedule a live trial.
+
+<p align="center"> 🚧 Built with ❤️ by BrainCode360 to keep industrial spaces safe using real-time AI. </p>
 
