@@ -1,2 +1,0 @@
-export OPENBLAS_CORETYPE=ARMV8
-python3 keas4Cams_trt.py
